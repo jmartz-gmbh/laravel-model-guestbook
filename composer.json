@@ -1,0 +1,25 @@
+{
+  "name": "jmartz-gmbh/laravel-model-guestbook",
+  "description": "Php Lumen Model Guestbook",
+  "license": "MIT",
+  "require": {
+    "php": "^7.3|^7.4|^8.0",
+    "ext-json": "*",
+    "illuminate/contracts": "^8.0",
+    "illuminate/database": "^8.0",
+    "illuminate/support": "^7.0|^8.0"
+  },
+  "autoload": {
+    "classmap": [
+      "model/"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Jonathan Martz",
+      "email": "composer@jmartz.de",
+      "homepage": "https://www.jmartz.de",
+      "role": "Developer"
+    }
+  ]
+}
